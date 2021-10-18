@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Data Moon",
+    "live": "https://sad-kirch-12188b.netlify.app",
+    "git": "https://github.com/SnakeBearLB/data-moon",
+    "image": "https://i.imgur.com/OCfOd5v.png"
+  },
+  {
+    "name": "Bad Ideas",
+    "live": "https://bad-ideas-app.herokuapp.com/",
+    "git": "https://github.com/SnakeBearLB/bad-ideas",
+    "image": "https://i.imgur.com/ZCX4dNy.png"
+  }
+]
